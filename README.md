@@ -1,6 +1,6 @@
 # ML-Assignment1
-#Name :Leela Sekhar Chowdary Mannava
-#ID:700740979
-#Semester:Spring
-#Course ID:CS 5710
-#CRN:23922
+#Name :Leela Sekhar Chowdary Mannava\n
+#ID:700740979\n
+#Semester:Spring\n
+#Course ID:CS 5710\n
+#CRN:23922\n
